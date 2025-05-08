@@ -69,7 +69,7 @@ Src: [Wikipedia](https://en.wikipedia.org/wiki/ImageMagick "Article on WIkipedia
 
 How to use **svgicon**
 
-### Set up your wroking directory
+### Set up your working directory
 
 Follow these simple steps to set it up:
 
@@ -77,11 +77,11 @@ Follow these simple steps to set it up:
 2. (*optional*) Delete the [SVG file](./icon-1024x1024.png) file, which is at the root of your directory copy 
 3. Replace it with your SVG logo/icon
 4. (*optional*) Update the Makefile to reflect the name of your SVG logo/icon source file
-  - define the various sizes of the copies you want to generate
+5. (*optional*) In the *Makefile* define the various sizes of the copies you want to generate
 
 ### Generating the icons set
 
-:exclamation: **Important:** read carefully the *Makefile* (it's not that complicated), change what you need to change in it so that the *make* command does ot loose track fo what it's supposed to do.
+:exclamation: **Important:** read carefully the *Makefile* (it's not that complicated), change what you need to change in it so that the *make* command does not loose track of what it's supposed to do.
 
 From your terminal, with the current working directry set to the root of the folder copy of the repository, simply do: `make`.
 
