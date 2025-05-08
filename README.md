@@ -24,7 +24,7 @@ So to avoid boredom of doing each time these same steps to achieve my goal, I've
 
 Src: [Inkscape about page](https://inkscape.org/about/ "Inkscape about page")
 
-## [Installation]
+##Installation
 
 Except for the installation of the required third-party tools (see below), nothing particular has to be done; just download or clone this repository.
 And now, each time you want to create your set of icons, simply make a copy of the repository to work with.
