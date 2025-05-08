@@ -65,14 +65,11 @@ Follow these simple steps to use **svgicon**:
 3. Replace it with your SVG logo/icon (*optional*)
 4. Update the Makefile to reflect the name your SVG logo/icon source file, and also you can define the dimesions of the resized copies of the icon (*optional*)
 
-So, read carefully the *Makefile* (it's not that complicated), change what you need to change, and then, from your terminal, with the current working directry set to the root of the folder, simply do: `make`. And that's it! :smiley:
+So, read carefully the *Makefile* (it's not that complicated), change what you need to change, and then, from your terminal, with the current working directry set to the root of the folder, simply do: `make`.
+Once *make* has done its job, you'll have a new folder :file_folder: named *icons* containing all the icons.
 
+And that's it! :smiley:
 
+## Contributing
 
-
-
-
-
-
-
-
+You'd like to enhance, correct, improve this project? Please, be my guest, send PRs! :thumbsup:
